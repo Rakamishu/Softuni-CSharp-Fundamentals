@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\RectangleArea\obj\Debug\RectangleArea.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\RectangleArea\obj\Debug\RectangleArea.pdb

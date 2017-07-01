@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.pdb

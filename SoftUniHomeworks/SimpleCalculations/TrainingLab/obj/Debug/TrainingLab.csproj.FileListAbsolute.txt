@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\bin\Debug\TrainingLab.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\bin\Debug\TrainingLab.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\bin\Debug\TrainingLab.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\obj\Debug\TrainingLab.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrainingLab\obj\Debug\TrainingLab.pdb

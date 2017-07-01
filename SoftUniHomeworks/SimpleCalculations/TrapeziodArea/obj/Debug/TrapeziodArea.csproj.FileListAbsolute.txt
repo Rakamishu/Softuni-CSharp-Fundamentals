@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

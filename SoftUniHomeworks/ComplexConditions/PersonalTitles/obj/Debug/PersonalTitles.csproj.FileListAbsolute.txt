@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.pdb

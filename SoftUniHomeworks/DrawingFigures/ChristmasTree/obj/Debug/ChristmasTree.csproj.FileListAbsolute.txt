@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\ChristmasTree\obj\Debug\ChristmasTree.pdb

@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\bin\Debug\Histogram.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\bin\Debug\Histogram.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\bin\Debug\Histogram.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\obj\Debug\Histogram.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\Histogram\obj\Debug\Histogram.pdb

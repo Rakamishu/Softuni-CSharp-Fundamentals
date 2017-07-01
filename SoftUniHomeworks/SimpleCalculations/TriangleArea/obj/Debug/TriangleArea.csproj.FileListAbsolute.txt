@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TriangleArea\bin\Debug\TriangleArea.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\TriangleArea\obj\Debug\TriangleArea.pdb

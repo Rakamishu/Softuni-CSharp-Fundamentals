@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\bin\Debug\ExcelentResults.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\bin\Debug\ExcelentResults.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\bin\Debug\ExcelentResults.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\obj\Debug\ExcelentResults.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\obj\Debug\ExcelentResults.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\ExcelentResults\obj\Debug\ExcelentResults.pdb

@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

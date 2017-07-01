@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe.config
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Nums1To20\bin\Debug\Nums1To20.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Nums1To20\obj\Debug\Nums1To20.pdb

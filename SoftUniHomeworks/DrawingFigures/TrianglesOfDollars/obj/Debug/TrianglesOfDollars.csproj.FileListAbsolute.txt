@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\bin\Debug\TrianglesOfDollars.exe.config
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\bin\Debug\TrianglesOfDollars.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\bin\Debug\TrianglesOfDollars.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\obj\Debug\TrianglesOfDollars.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\obj\Debug\TrianglesOfDollars.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\TrianglesOfDollars\obj\Debug\TrianglesOfDollars.csprojResolveAssemblyReference.cache

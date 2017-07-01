@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Rhombus\bin\Debug\Rhombus.exe.config
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Rhombus\bin\Debug\Rhombus.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Rhombus\bin\Debug\Rhombus.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Rhombus\obj\Debug\Rhombus.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Rhombus\obj\Debug\Rhombus.pdb

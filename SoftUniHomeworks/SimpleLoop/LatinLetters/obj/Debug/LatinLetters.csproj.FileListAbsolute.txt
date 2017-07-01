@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LatinLetters\bin\Debug\LatinLetters.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LatinLetters\bin\Debug\LatinLetters.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LatinLetters\bin\Debug\LatinLetters.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LatinLetters\obj\Debug\LatinLetters.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LatinLetters\obj\Debug\LatinLetters.pdb

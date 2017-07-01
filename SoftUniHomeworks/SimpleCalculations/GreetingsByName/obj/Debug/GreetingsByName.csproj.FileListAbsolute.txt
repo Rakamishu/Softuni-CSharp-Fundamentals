@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\GreetingsByName\bin\Debug\GreetingsByName.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\GreetingsByName\obj\Debug\GreetingsByName.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\GreetingsByName\obj\Debug\GreetingsByName.pdb

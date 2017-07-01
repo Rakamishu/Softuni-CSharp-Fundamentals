@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\bin\Debug\Sunglasses.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\obj\Debug\Sunglasses.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\Sunglasses\obj\Debug\Sunglasses.pdb

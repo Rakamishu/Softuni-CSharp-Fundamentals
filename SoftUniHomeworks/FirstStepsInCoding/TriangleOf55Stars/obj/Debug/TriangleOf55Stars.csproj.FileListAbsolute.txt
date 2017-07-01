@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\Cinema\bin\Debug\Cinema.exe.config
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\Cinema\bin\Debug\Cinema.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\Cinema\bin\Debug\Cinema.pdb
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\Cinema\obj\Debug\Cinema.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\Cinema\obj\Debug\Cinema.pdb

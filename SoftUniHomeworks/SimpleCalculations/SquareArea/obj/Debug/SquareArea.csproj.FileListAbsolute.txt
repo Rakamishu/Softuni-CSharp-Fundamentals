@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\bin\Debug\SquareArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\bin\Debug\SquareArea.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\obj\Debug\SquareArea.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\SquareArea\obj\Debug\SquareArea.pdb

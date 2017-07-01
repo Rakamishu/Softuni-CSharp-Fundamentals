@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\RadiusToDegrees\bin\Debug\RadiusToDegrees.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\RadiusToDegrees\bin\Debug\RadiusToDegrees.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\RadiusToDegrees\bin\Debug\RadiusToDegrees.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\RadiusToDegrees\obj\Debug\RadiusToDegrees.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\RadiusToDegrees\obj\Debug\RadiusToDegrees.pdb

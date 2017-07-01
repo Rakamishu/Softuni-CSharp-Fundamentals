@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\obj\Debug\AlcoholMarket.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\bin\Debug\ExamsPractice.exe.config
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\bin\Debug\ExamsPractice.exe
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\bin\Debug\ExamsPractice.pdb
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\obj\Debug\ExamsPractice.exe
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\ExamsPractice\obj\Debug\ExamsPractice.pdb

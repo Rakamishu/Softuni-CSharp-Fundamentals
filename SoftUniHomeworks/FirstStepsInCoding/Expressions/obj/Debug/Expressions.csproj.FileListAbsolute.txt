@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Expressions\bin\Debug\Expressions.exe.config
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Expressions\bin\Debug\Expressions.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Expressions\bin\Debug\Expressions.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Expressions\obj\Debug\Expressions.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\Expressions\obj\Debug\Expressions.pdb

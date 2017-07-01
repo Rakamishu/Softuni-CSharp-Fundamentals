@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\bin\Debug\TransportPrice.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\bin\Debug\TransportPrice.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\bin\Debug\TransportPrice.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\obj\Debug\TransportPrice.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\TransportPrice\obj\Debug\TransportPrice.pdb

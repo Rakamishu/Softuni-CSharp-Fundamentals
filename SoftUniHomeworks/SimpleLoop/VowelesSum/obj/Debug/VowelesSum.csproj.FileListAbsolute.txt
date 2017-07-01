@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\VowelesSum\bin\Debug\VowelesSum.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\VowelesSum\bin\Debug\VowelesSum.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\VowelesSum\bin\Debug\VowelesSum.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\VowelesSum\obj\Debug\VowelesSum.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\VowelesSum\obj\Debug\VowelesSum.pdb

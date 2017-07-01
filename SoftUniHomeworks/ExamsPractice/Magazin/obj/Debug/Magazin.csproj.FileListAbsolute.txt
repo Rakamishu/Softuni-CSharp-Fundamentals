@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\Magazin\bin\Debug\Magazin.exe.config
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\Magazin\bin\Debug\Magazin.exe
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\Magazin\bin\Debug\Magazin.pdb
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\Magazin\obj\Debug\Magazin.exe
+D:\VS Projects\SoftUniHomeworks\ExamsPractice\Magazin\obj\Debug\Magazin.pdb

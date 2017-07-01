@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\bin\Debug\NumberToText.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\bin\Debug\NumberToText.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\bin\Debug\NumberToText.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\obj\Debug\NumberToText.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\obj\Debug\NumberToText.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\NumberToText\obj\Debug\NumberToText.csprojResolveAssemblyReference.cache

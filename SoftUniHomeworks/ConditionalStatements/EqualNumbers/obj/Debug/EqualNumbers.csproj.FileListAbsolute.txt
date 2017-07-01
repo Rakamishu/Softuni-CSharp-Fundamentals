@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.pdb

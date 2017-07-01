@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\IncToCm\bin\Debug\IncToCm.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\IncToCm\bin\Debug\IncToCm.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\IncToCm\bin\Debug\IncToCm.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\IncToCm\obj\Debug\IncToCm.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\IncToCm\obj\Debug\IncToCm.pdb

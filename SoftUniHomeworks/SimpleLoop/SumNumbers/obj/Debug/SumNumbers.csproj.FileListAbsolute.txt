@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\SumNumbers\bin\Debug\SumNumbers.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\SumNumbers\obj\Debug\SumNumbers.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\SumNumbers\obj\Debug\SumNumbers.pdb

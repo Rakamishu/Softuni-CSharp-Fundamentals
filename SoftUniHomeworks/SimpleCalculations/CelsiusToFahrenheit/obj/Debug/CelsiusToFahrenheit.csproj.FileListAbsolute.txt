@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

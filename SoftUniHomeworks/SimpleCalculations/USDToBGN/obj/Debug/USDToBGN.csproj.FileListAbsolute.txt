@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\USDToBGN\bin\Debug\USDToBGN.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\USDToBGN\bin\Debug\USDToBGN.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\USDToBGN\bin\Debug\USDToBGN.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\USDToBGN\obj\Debug\USDToBGN.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\USDToBGN\obj\Debug\USDToBGN.pdb

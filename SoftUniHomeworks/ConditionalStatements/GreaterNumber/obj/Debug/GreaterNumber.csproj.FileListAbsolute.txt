@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

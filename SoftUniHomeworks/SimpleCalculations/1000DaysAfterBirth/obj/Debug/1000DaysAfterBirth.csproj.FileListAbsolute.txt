@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\SmallShop\bin\Debug\SmallShop.pdb
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb

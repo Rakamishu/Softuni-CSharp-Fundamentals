@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

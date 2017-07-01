@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\bin\Debug\RectangleOfStars.exe.config
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\bin\Debug\RectangleOfStars.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\bin\Debug\RectangleOfStars.pdb
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\obj\Debug\RectangleOfStars.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\obj\Debug\RectangleOfStars.exe
+D:\VS Projects\SoftUniHomeworks\DrawingFigures\RectangleOfStars\obj\Debug\RectangleOfStars.pdb

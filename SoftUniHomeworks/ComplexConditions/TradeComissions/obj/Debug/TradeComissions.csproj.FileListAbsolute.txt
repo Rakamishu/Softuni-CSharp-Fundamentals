@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.exe
+D:\VS Projects\SoftUniHomeworks\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.pdb

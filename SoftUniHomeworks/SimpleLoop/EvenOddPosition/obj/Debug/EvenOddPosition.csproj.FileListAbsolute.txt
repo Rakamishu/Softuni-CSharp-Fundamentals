@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\EvenOddPosition\bin\Debug\EvenOddPosition.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\EvenOddPosition\bin\Debug\EvenOddPosition.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\EvenOddPosition\bin\Debug\EvenOddPosition.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\EvenOddPosition\obj\Debug\EvenOddPosition.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\EvenOddPosition\obj\Debug\EvenOddPosition.pdb

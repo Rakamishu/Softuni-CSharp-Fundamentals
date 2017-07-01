@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\SpeedInfo\obj\Debug\SpeedInfo.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\SpeedInfo\obj\Debug\SpeedInfo.pdb

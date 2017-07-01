@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\VS Projects\SoftUniHomeworks\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

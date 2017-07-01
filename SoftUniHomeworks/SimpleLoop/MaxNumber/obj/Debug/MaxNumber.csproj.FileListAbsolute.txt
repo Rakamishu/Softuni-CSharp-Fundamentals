@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\bin\Debug\MaxNumber.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\obj\Debug\MaxNumber.exe
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\obj\Debug\MaxNumber.pdb
+D:\VS Projects\SoftUniHomeworks\SimpleLoop\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache

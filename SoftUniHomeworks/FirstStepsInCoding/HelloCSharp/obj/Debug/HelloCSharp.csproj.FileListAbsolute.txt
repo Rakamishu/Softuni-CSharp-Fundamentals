@@ -1,0 +1,12 @@
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\VS Projects\SoftUniHomeworks\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\VS Projects\SoftUniHomeworks\FirstStepsInCoding\HelloCSharp\obj\Debug\HelloCSharp.pdb
