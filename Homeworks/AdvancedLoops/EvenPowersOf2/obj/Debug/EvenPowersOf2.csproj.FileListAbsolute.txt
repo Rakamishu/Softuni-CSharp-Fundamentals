@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

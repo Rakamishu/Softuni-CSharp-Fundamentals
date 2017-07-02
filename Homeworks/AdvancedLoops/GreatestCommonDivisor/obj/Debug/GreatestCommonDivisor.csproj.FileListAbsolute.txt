@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

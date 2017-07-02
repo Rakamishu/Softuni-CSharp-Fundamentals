@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersTable\bin\Debug\NumbersTable.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersTable\bin\Debug\NumbersTable.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersTable\bin\Debug\NumbersTable.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersTable\obj\Debug\NumbersTable.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersTable\obj\Debug\NumbersTable.pdb

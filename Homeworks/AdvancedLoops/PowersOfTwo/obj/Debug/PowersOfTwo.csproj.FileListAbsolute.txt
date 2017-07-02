@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

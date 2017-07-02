@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

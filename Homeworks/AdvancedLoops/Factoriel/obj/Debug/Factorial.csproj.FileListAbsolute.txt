@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\Factoriel\bin\Debug\Factoriel.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\Factoriel\bin\Debug\Factoriel.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\Factoriel\bin\Debug\Factoriel.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\Factoriel\obj\Debug\Factoriel.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\Factoriel\obj\Debug\Factoriel.pdb

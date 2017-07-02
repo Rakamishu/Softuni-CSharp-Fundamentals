@@ -1,0 +1,5 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersN1\bin\Debug\NumbersN1.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersN1\obj\Debug\NumbersN1.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\NumbersN1\obj\Debug\NumbersN1.pdb

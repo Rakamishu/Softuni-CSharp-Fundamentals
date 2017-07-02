@@ -1,0 +1,6 @@
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+D:\VS Projects\SoftUniHomeworks\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb
